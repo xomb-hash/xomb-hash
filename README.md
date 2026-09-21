@@ -10,7 +10,7 @@
 ## 🚀 Currently
 
 - 📚 Improving Data Structures & Algorithms
-- 🤖 Learning AI/ML
+- 🤖 Learning LLM/Agentic Workflow
 - ⚙️ Exploring backend development
 - 🛠️ Building projects
 
